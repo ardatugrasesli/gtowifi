@@ -9,11 +9,9 @@ The T290's bootloader has a specific security requirement. It refuses to load an
 
 If these are missing, you will see the red error message on your splash screen and the device will fail to boot. 🚫
 
-![](ss.jpg)
-
 ---
 
-## 🚀 How to Fix
+## 🚀 How to Fix?
 
 You have two ways to resolve this issue depending on your current setup.
 
