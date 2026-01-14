@@ -1,9 +1,7 @@
 ## Background
 The T290's bootloader has a bug where it refuses to load boot/recovery images that don't contain the `SignerVer02` magic and an AVB Footer at the end of the partition with the image's size. This results in the "SECURE CHECK FAIL" screen that we all know and love.
 
-<p align="center">?
-    <img src="./image.jpg" />
-</p>
+[](image.jpg)
 
 ## How to fix?
 You have two options:
