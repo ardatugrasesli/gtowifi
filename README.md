@@ -19,13 +19,13 @@ You have two ways to resolve this issue depending on your current setup.
 If you already have TWRP installed and want to fix the image currently residing on your device:
 
 1.  Download the [FixBootImage.zip](https://github.com/ardatugrasesli/gtowifi/releases/download/Release/FixBootImage.zip).
-2.  Transfer it to your SD Card or Internal Storage.
+2.  Transfer it to your SD Card or USB flash
 3.  Boot into **TWRP Recovery**.
 4.  Select **Install**, choose the zip, and swipe to flash.
 5.  **Reboot** and enjoy! ✨
 
 ### Option B: Python Script (PC Method) 💻
-Use this method to "patch" an image file on your computer before flashing it via Odin or Heimdall.
+Use this method to "patch" an image file on your computer before flashing it via Odin, Heimdall or [Eros](https://github.com/Gabriel2392/ErosFlashTool).
 
 **Prerequisites:** Python 3.x installed.
 
