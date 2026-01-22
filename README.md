@@ -15,7 +15,7 @@ If these are missing, you will see the red error message on your splash screen a
 
 You have two ways to resolve this issue depending on your current setup.
 
-### Option A: Flashable ZIP (via TWRP) 📲
+### Option A: Flashable ZIP (via TWRP/OFRP) 📲
 If you already have TWRP installed and want to fix the image currently residing on your device:
 
 1.  Download the [FixBootImage.zip](https://github.com/ardatugrasesli/gtowifi/releases/download/Release/FixBootImage.zip).
