@@ -1,4 +1,4 @@
-# 🛠️ Samsung Tab A 8.0 (SM-T290) Boot Image Fixer
+# 🛠️ Samsung Galaxy Tab A (2019, 8.0")  **"SECURE CHECK FAIL"** Fixer
 
 This repository provides tools to fix the infamous **"SECURE CHECK FAIL"** error on the Samsung Galaxy Tab A 8.0 (2019). 
 
